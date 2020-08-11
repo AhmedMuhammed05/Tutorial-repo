@@ -1,4 +1,3 @@
 # Tutorial 
 
-learning github
-still learning
+still learning github
